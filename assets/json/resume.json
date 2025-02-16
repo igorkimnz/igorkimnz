@@ -2,12 +2,12 @@
 "basics": {
         "name": "Igor Kim",
         "label": "Performance Reporting Specialist",
-        "email": "itf.sakhalin@gmail.com",
+        "email": "igorkkim@gmail.com",
         "url": "https://www.linkedin.com/in/igorkimnz",
-        "summary": "Performance Reporting Specialist with expertise in data modeling, Snowflake, and Microsoft Excel.",
+        "summary": "A BI developer, specializing in delivering end-to-end dta project from gathering business requirements and designing data models to transforming raw data into compelling visual narratives.
+        Passionate about data visualization and Power BI",
         "location": {
             "city": "Auckland",
-            "region": "Auckland",
             "countryCode": "NZ"
         },
         "profiles": [
