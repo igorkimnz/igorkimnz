@@ -1,11 +1,11 @@
 
+{
 "basics": {
         "name": "Igor Kim",
         "label": "Performance Reporting Specialist",
         "email": "igorkkim@gmail.com",
         "url": "https://www.linkedin.com/in/igorkimnz",
-        "summary": "A BI developer, specializing in delivering end-to-end dta project from gathering business requirements and designing data models to transforming raw data into compelling visual narratives.
-        Passionate about data visualization and Power BI",
+        "summary": "A BI developer specializing in delivering end-to-end data projects, from gathering business requirements and designing data models to transforming raw data into compelling visual narratives.",
         "location": {
             "city": "Auckland",
             "countryCode": "NZ"
@@ -62,21 +62,7 @@
             "location": "Yuzhno-Sakhalinsk, Russia"
         }
     ],
-    "volunteer": [
-        {
-            "organization": "People's Climate March",
-            "location": "Zurich, Switzerland",
-            "position": "Lead Organizer",
-            "url": "https://example.com",
-            "startDate": "2014-04-01",
-            "endDate": "2015-07-01",
-            "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-            "highlights": [
-                "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.",
-                "Men of the year 2014 by Time magazine"
-            ]
-        }
-    ],
+ 
     "education": [
         {
             "institution": "AUT University",
@@ -95,13 +81,8 @@
             "location": "Yuzhno-Sakhalinsk, Russia"
         }
     ],
-    "awards": [
-        {
-            "title": "Sakhalin Region Talented Youth Award",
-            "awarder": "Sakhalin Region",
-            "summary": "Recognized as a talented youth in Sakhalin for outstanding academic and professional achievements."
-        }
-    ],
+    
+ 
     "certificates": [
         {
             "name": "Power BI Dashboard Design Course",
@@ -119,42 +100,6 @@
             "name": "Microsoft Certified: Azure Fundamentals",
             "issuer": "Microsoft"
         }
-    ],
-    "publications": [
-        {
-            "name": "Zur Elektrody/namik bewegter K\u00f6rper",
-            "publisher": "Annalen der Physik",
-            "releaseDate": "1905-06-30",
-            "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-            "summary": "It concerned an interpretation of the Michelson\u2013Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-        },
-        {
-            "name": "\u00dcber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-            "publisher": "Annalen der Physik",
-            "releaseDate": "1905-03-18",
-            "url": "https://de.wikisource.org/wiki/\u00dcber_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-            "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-        },
-        {
-            "name": "Die Grundlage der allgemeinen Relativit\u00e4tstheorie",
-            "publisher": "Annalen der Physik",
-            "releaseDate": "1916-03-20",
-            "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativit\u00e4tstheorie",
-            "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909\u20131911) and Prague (1911\u20131912), before he returned to ETH Zurich (1912\u20131914)."
-        }
-    ],
-    "skills": [
-        {
-            "name": "Snowflake",
-            "level": "Advanced"
-        },
-        {
-            "name": "Microsoft Excel",
-            "level": "Advanced"
-        },
-        {
-            "name": "Data Modeling",
-            "level": "Advanced"
-        }
     ]
 }
+ 

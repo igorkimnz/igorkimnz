@@ -1,68 +1,83 @@
-# Igor Kim
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Igor Kim
+    - name: Email
+      value: igorkkim@gmail.com
+    - name: Location
+      value: Auckland, New Zealand
+    - name: LinkedIn
+      value: igorkimnz
 
-**Performance Reporting Specialist**  
-📧 [igorkkim@gmail.com](mailto:igorkkim@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/igorkimnz)  
-📍 Auckland, New Zealand  
+- title: Summary
+  type: list
+  contents:
+    - A BI developer specializing in delivering end-to-end data projects, from gathering business requirements and designing data models to transforming raw data into compelling visual narratives.
+    - Passionate about data visualization and Power BI.
 
-## Summary
-A BI developer specializing in delivering end-to-end data projects, from gathering business requirements and designing data models to transforming raw data into compelling visual narratives. Passionate about data visualization and Power BI.
+- title: Work Experience
+  type: time_table
+  contents:
+    - title: Performance Reporting Specialist
+      institution: Callaghan Innovation
+      year: Jan 2023 - Present
+      location: Auckland, New Zealand
 
----
+    - title: Business Intelligence and Data Engineer
+      institution: EROAD
+      year: May 2021 - Jan 2023
+      location: Auckland, New Zealand
 
-## Work Experience
+    - title: Data Project Support / Supply Chain Analyst
+      institution: EROAD
+      year: Oct 2020 - May 2021
+      location: Auckland, New Zealand
 
-### **Callaghan Innovation**  
-📌 *Performance Reporting Specialist* (Jan 2023 - Present)  
-📍 Auckland, New Zealand  
+    - title: Assistant Analyst
+      institution: Fullers360
+      year: Jul 2020 - Mar 2021
+      location: Auckland, New Zealand
 
-### **EROAD**  
-📌 *Business Intelligence and Data Engineer* (May 2021 - Jan 2023)  
-📍 Auckland, New Zealand  
+    - title: Operations Manager
+      institution: Aleph Limited
+      year: Feb 2016 - May 2019
+      location: Auckland, New Zealand
 
-📌 *Data Project Support / Supply Chain Analyst* (Oct 2020 - May 2021)  
-📍 Auckland, New Zealand  
+    - title: IT Support
+      institution: Ministry of Foreign Affairs of Sakhalin Region
+      year: Oct 2011 - Jun 2012
+      location: Yuzhno-Sakhalinsk, Russia
 
-### **Fullers360**  
-📌 *Assistant Analyst* (Jul 2020 - Mar 2021)  
-📍 Auckland, New Zealand  
+- title: Education
+  type: time_table
+  contents:
+    - title: Graduate Diploma in Business
+      institution: AUT University
+      year: 2014 - 2015
+      location: Auckland, New Zealand
 
-### **Aleph Limited**  
-📌 *Operations Manager* (Feb 2016 - May 2019)  
-📍 Auckland, New Zealand  
+    - title: Specialist Degree in State and Municipal Management
+      institution: Sakhalin State University
+      year: 2008 - 2013
+      location: Yuzhno-Sakhalinsk, Russia
 
-### **Ministry of Foreign Affairs of Sakhalin Region**  
-📌 *IT Support* (Oct 2011 - Jun 2012)  
-📍 Yuzhno-Sakhalinsk, Russia  
+- title: Certifications
+  type: list
+  contents:
+    - DP-600: Fabric Analytics Engineer Associate
+    - DA-100: Power BI Data Analyst Associate
+    - AZ-900: Microsoft Azure Fundamentals
 
----
+- title: Training
+  type: list
+  contents:
+    - SQLBI: Power BI Dashboard Design Course
+    - SQLBI: Data Modelling for Power BI
+    - SQLBI: Mastering DAX
 
-## Education
-
-### **AUT University**  
-📌 *Graduate Diploma in Business* (2014 - 2015)  
-📍 Auckland, New Zealand  
-
-### **Sakhalin State University**  
-📌 *Specialist Degree in State and Municipal Management* (2008 - 2013)  
-📍 Yuzhno-Sakhalinsk, Russia  
-
----
-
-## Certifications
-
-- ** DP-600: Fabric Analytics Engineer Associate ** 
-- ** DA-100: Power BI Data Analyst Associate **
-- ** AZ-900: Microsoft Azure Fundamentals**
-
-## Training 
-- ** SQLBI: Power BI Dashboard Design Course ** 
-- ** SQLBI: Data Modelling for Power BI ** 
-- ** SQLBI: Mastering DAX ** 
-
----
-
-## Skills
-
-- **Power BI** 
-- **SQL**
+- title: Skills
+  type: list
+  contents:
+    - Power BI
+    - SQL
